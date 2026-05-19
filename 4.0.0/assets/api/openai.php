@@ -8,7 +8,7 @@ if ($frage === '') {
     exit;
 }
 
-$apiKey = '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';
+$apiKey = '';
 $endpoint = 'https://api.openai.com/v1/chat/completions';
 
 $data = [
