@@ -1,0 +1,17 @@
+<div class="navigation">
+  <a href="/">Startseite</a>
+  <a href="/blog/" target="_blank">Blog</a>
+  <a href="https://php.codevoyage.de/">PHP-Bereich</a>
+  <a
+    href="https://python.codevoyage.de/"
+    class="{% if bereich == 'Python-Bereich' %}active{% endif %}"
+    >Python-Bereich</a
+  >
+  <a href="https://javascript.codevoyage.de/">JavaScript-Bereich</a>
+  <a href="/wissensportal//">Wissensportal</a>
+  <a
+    href="/acp/"
+    class="{% if current_section == 'Administrationsbereich' %}active{% endif %}"
+    >Administrationsbereich</a
+  >
+</div>
