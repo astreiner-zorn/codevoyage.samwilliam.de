@@ -1,5 +1,3 @@
-
-
 body {
   background-color: #fafafa !important;
   padding: 20px;
@@ -7,7 +5,9 @@ body {
   font-family: "Roboto" !important;
 }
 
-p, a, a:hover {
+p,
+a,
+a:hover {
   font-size: 14px !important;
   padding: 0 !important;
   text-decoration: none;
@@ -23,7 +23,7 @@ blockquote {
 }
 
 blockquote p:before {
-  content: '\27A5';
+  content: "\27A5";
   margin-right: 5px;
 }
 
@@ -37,7 +37,8 @@ img {
   margin-right: 5px;
 }
 
-ul, ol {
+ul,
+ol {
   padding: 0 0 0 20px;
 }
 

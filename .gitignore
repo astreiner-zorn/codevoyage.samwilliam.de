@@ -3,3 +3,5 @@ database.inc.php
 database-connect.php
 database.php
 openai.php
+.DS_Store
+.pem

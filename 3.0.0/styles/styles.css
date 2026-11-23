@@ -215,7 +215,7 @@ button[type="button"].button-3:hover {
 
 li.now-tag:before {
     content: '\f783';
-    font-family: 'Font Awesome 6 Free';
+    font-family: 'Font Awesome 7 Free';
     font-weight: 600;
     margin-right: 7px;
     color: #ccc;
@@ -223,7 +223,7 @@ li.now-tag:before {
 
 li.now-datum:before {
     content: '\f073';
-    font-family: 'Font Awesome 6 Free';
+    font-family: 'Font Awesome 7 Free';
     font-weight: 600;
     margin-right: 7px;
     color: #ccc;
@@ -231,7 +231,7 @@ li.now-datum:before {
 
 li.now-uhrzeit:before {
     content: '\f017';
-    font-family: 'Font Awesome 6 Free';
+    font-family: 'Font Awesome 7 Free';
     font-weight: 600;
     margin-right: 7px;
     color: #ccc;
